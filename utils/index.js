@@ -54,3 +54,27 @@ const questions = [
   }
 ];
 
+// Write a file 
+function writeToFile(fileName, data) {
+
+    fs.writeFile("./demo/"+fileName, data, function(err) {
+      if (err) {
+        return console.log(err);
+      }
+      console.log ("Successfully wrote: " + fileName);
+    })
+    
+    }
+    
+    
+    // init function
+    function init() {
+      inquirer.prompt(questions)
+      .then(function(data) {
+        writeToFile("DemoREADME.md", generatorMarkdown(data));
+      })
+    }
+    
+    
+    // run 
+    init();
