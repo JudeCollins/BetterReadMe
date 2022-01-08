@@ -44,7 +44,7 @@ If you have any questions about the repo, open an issue or contact JudeCollins d
 
 
 
-[index.js - BetterReadMe - Visual Studio Code 2022-01-08 14-07-13.zip](https://github.com/JudeCollins/BetterReadMe/files/7833832/index.js.-.BetterReadMe.-.Visual.Studio.Code.2022-01-08.14-07-13.zip)
+
 
 
 
