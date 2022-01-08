@@ -1,6 +1,6 @@
 
 # Better Read me
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JudeCollins/Better Read me)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JudeCollins/BetterReadme)
 
 # Description
 
