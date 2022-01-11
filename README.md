@@ -33,6 +33,10 @@ This project is license under the MIT license.
 # Contributing
 ​Contributors: Jude Collins
 
+
+
+https://watch.screencastify.com/v/cKGv0HfcU6v5VCHgix3K
+
 # Tests
 To run tests, you need to run the following command: Node index.js
 
