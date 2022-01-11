@@ -35,13 +35,13 @@ This project is license under the MIT license.
 
 
 
-https://watch.screencastify.com/v/cKGv0HfcU6v5VCHgix3K
-
 # Tests
 To run tests, you need to run the following command: Node index.js
 
 # Questions
 If you have any questions about the repo, open an issue or contact JudeCollins directly Jude.Collins13@yahoo.com.
+
+View demo here : https://watch.screencastify.com/v/cKGv0HfcU6v5VCHgix3K
 
 
 
